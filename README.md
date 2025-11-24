@@ -21,7 +21,7 @@
 
 ## 📝 About
 
-**QUEEN RIAM** is a modern WhatsApp multi-device bot built with Node.js, Baileys, and Express. It is designed for ease of use, extensibility, and robust automation for group and personal chats. Please use this tool responsibly and for educational purposes only.
+**ZaifSec_MD** is a modern WhatsApp multi-device bot built with Node.js, Baileys, and Express. It is designed for ease of use, extensibility, and robust automation for group and personal chats. Please use this tool responsibly and for educational purposes only.
 
 ---
 
@@ -108,7 +108,7 @@ Deploy QUEEN RIAM with one click on any platform below:
 - **Educational use only.**
 - Do **not** use this bot for spam or any illegal activities.
 
-> Powered by Hector Manuel ✨
+> Powered by Huzaifa Mahmood ✨
 
 ---
 
