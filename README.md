@@ -1,12 +1,12 @@
-<h1 align="center">👑 QUEEN RIAM </h1>
+<h1 align="center">👑 MUHAMMAD ZAIF</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Queen Riam Banner" width="350" />
+  <img src="https://i.postimg.cc/Mp8mkTrT/riam.png" alt="Zaif Palestine Banner" width="350" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Dev-Kango" title="DevKango"><img src="https://img.shields.io/badge/DevKango-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://wa.me/233509977126" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/923185001234" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
