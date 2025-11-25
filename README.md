@@ -42,7 +42,7 @@ Generate your Session ID to connect your WhatsApp account:
 
 ## 🚀 Deploy Instantly
 
-Deploy QUEEN RIAM with one click on any platform below:
+Deploy ZaifSec_MD Bot with one click on any platform below:
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Dev-Kango/Queen-Riam" target="_blank">
